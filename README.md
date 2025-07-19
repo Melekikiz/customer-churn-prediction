@@ -1,4 +1,4 @@
-# customer-churn-prediction
+
 # Customer Churn Prediction Project
 
 This project analyzes customer churn using machine learning models. The goal is to identify factors influencing customer churn and build predictive models that can classify whether a customer is likely to churn.
